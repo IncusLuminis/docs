@@ -90,6 +90,7 @@ Current portfolio:
 | `stellar-attractor` | Stellar Attractor production | Source code, Markdown | Production | Products | Universe, scripts, tools and production pipeline |
 | `stellar-attractor-content` | Stellar Attractor content production pipeline | Markdown, YAML, JSON | GitHUB | Products | SA Universe content |
 | `visualization-studio` | Visualization and HUD tools | Python, TypeScript | Production | Products | HUD Tracer, editors, visualization utilities |
+| `visualization-studio-content` | Visualization content | Python, TypeScript | Production | Products | studio content |
 
 Repository names should not change during the migration.
 
